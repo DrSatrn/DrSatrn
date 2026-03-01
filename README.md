@@ -1,7 +1,8 @@
 ## Me, the github profile you clicked on
+Just a guy
 
-###Here are some dot points
-- I like building things, which is not original. I like breaking things (by mistake) and then struggling to fix them.
+### Here are some dot points
+*I like building things, which is not original. I like breaking things (by mistake) and then struggling to fix them.
 - I rather learn a lot about a few things rather than learning a few things about a lot.
 - My perfect frontend is an excel spreadsheet - I'm not your guy if you want something pretty.
 - I like infrastructure and system administration. I also like programming.
