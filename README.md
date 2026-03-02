@@ -1,4 +1,4 @@
-# Me, the github profile you clicked on
+# Me, (Seb) - the github profile you clicked on
 Just a guy being a dude
 
 ## Here are some dot points
@@ -16,6 +16,7 @@ choices, choices...
 ## Skills
 ### Frontend
 Does markdown count?
+
 
 ### Tools
 
