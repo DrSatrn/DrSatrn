@@ -12,33 +12,8 @@ I am still figuring out where I want to go within technology.
 SRE and DevOps is very appealing, as is Data Engineering.
 choices, choices...
 
-### Skills
-#### Infrastructure / Systems
-- Linux
-- Docker
-- Hypervisors (Proxmox)
-- Identity systems (Active Directory / Azure AD)
-
-#### Cloud
-- Azure ()
-- GCP ()
-- Oracle
-
-
-#### Programming
-- Python
-- SQL
-- PowerShell
-
-#### Frontend
-- Does markdown count?
-- Excel (best UI framework)
-
-#### Tools
-- Git
-- Grafana
-- RPA
-
+### Interests
+Infrastructure • Data Engineering • Systems • Automation
 <!--
 **DrSatrn/DrSatrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
