@@ -1,6 +1,6 @@
 Just a guy being a dude
 
-## Here are some dot points about me
+### About me
 - I like building things, which is not original. I like breaking things (by mistake) and then struggling to fix them.
 - I rather learn a lot about a few things rather than learning a few things about a lot.
 - My perfect frontend is an excel spreadsheet - I'm not your guy if you want something pretty.
@@ -12,29 +12,29 @@ I am still figuring out where I want to go within technology.
 SRE and DevOps is very appealing, as is Data Engineering.
 choices, choices...
 
-## Skills
-### Infrastructure / Systems
+### Skills
+#### Infrastructure / Systems
 - Linux
 - Docker
 - Hypervisors (Proxmox)
 - Identity systems (Active Directory / Azure AD)
 
-### Cloud
+#### Cloud
 - Azure ()
 - GCP ()
 - Oracle
 
 
-### Programming
+#### Programming
 - Python
 - SQL
 - PowerShell
 
-### Frontend
+#### Frontend
 - Does markdown count?
 - Excel (best UI framework)
 
-### Tools
+#### Tools
 - Git
 - Grafana
 - RPA
