@@ -14,6 +14,9 @@ choices, choices...
 
 ### Interests
 Infrastructure • Data Engineering • Systems • Automation
+
+### What I'm working on
+Portfolio website • online learning resources repository (check out `learning-resources`) • hosting k3s at home (check out `homelab-showcase` 
 <!--
 **DrSatrn/DrSatrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
