@@ -13,14 +13,13 @@ SRE and DevOps is very appealing, as is Data Engineering.
 choices, choices...
 
 ## Skills
-
 ### Infrastructure / Systems
 - Linux
 - Docker
 - Hypervisors (Proxmox)
 - Identity systems (Active Directory / Azure AD)
 
-## Cloud
+### Cloud
 - Azure ()
 - GCP ()
 - Oracle
