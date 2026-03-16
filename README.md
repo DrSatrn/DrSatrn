@@ -13,10 +13,13 @@ SRE and DevOps is very appealing, as is Data Engineering.
 choices, choices...
 
 ### Interests
-Infrastructure • Data Engineering • Systems • Automation
+Infrastructure Automation • Data Engineering • Machine Learning
 
 ### What I'm working on
-Portfolio website • online learning resources repository (check out `learning-resources`) • hosting k3s at home (check out `homelab-showcase` 
+- Portfolio website - in developtment (I'm not a front end guy)
+- Curated learning resources repository (check out `learning-resources`)
+- hosting k3s at home along with other home infra (check out `homelab-showcase`)
+- Experimenting with LLMs (check out `data-platform-bootstrap`)
 <!--
 **DrSatrn/DrSatrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
