@@ -1,7 +1,6 @@
-# Me, (Seb) - the github profile you clicked on
 Just a guy being a dude
 
-## Here are some dot points
+## Here are some dot points about me
 - I like building things, which is not original. I like breaking things (by mistake) and then struggling to fix them.
 - I rather learn a lot about a few things rather than learning a few things about a lot.
 - My perfect frontend is an excel spreadsheet - I'm not your guy if you want something pretty.
@@ -14,14 +13,48 @@ SRE and DevOps is very appealing, as is Data Engineering.
 choices, choices...
 
 ## Skills
-### Frontend
-Does markdown count?
 
+### Infrastructure / Systems
+- Linux
+- Docker
+- Hypervisors (Proxmox)
+- Identity systems (Active Directory / Azure AD)
+
+## Cloud
+- Azure ()
+- GCP ()
+- Oracle
+
+
+### Programming
+- Python
+- SQL
+- PowerShell
+
+### Frontend
+- Does markdown count?
+- Excel (best UI framework)
 
 ### Tools
+- Git
+- Grafana
+- RPA
 
+<!--
+**DrSatrn/DrSatrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Misc
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **DrSatrn/DrSatrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
