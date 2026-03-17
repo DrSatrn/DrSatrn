@@ -16,7 +16,7 @@ choices, choices...
 Infrastructure Automation • Data Engineering • Machine Learning
 
 ### What I'm working on
-- Portfolio website - in developtment (I'm not a front end guy)
+- Portfolio website - in development (I'm not a front end guy)
 - Curated learning resources repository (check out `learning-resources`)
 - hosting k3s at home along with other home infra (check out `homelab-showcase`)
 - Experimenting with LLMs (check out `data-platform-bootstrap`)
