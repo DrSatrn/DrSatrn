@@ -1,25 +1,22 @@
 Just a guy being a dude
 
 ### About me
-- I like building things, which is not original. I like breaking things (by mistake) and then struggling to fix them.
-- I rather learn a lot about a few things rather than learning a few things about a lot.
-- My perfect frontend is an excel spreadsheet - I'm not your guy if you want something pretty.
-- I like infrastructure and system administration. I also like programming.
-- I like playing detective to find out why something fell over. 
-- I say 'like' and 'things' far too much, I should probably do something about that
+- Builder, also a Breaker™️ (much to my own chagrin)
+- Excel is the perfect UI. No follow up
+- Interested in ~all~ technology (IoT, cloud computing, data orchestration, game dev, hypervisors, virtualisation, combustion engines)
+- Expert detective when solving P1 incidents. Expert Watson at causing them
 
-I am still figuring out where I want to go within technology.
-SRE and DevOps is very appealing, as is Data Engineering.
-choices, choices...
+I like working at the intersection of software engineering, data and infrastructure. 
+Pursuing a career in SRE / DevOps / Platform engineering.
 
 ### Interests
 Infrastructure Automation • Data Engineering • Machine Learning
 
 ### What I'm working on
-- Portfolio website - in development (I'm not a front end guy: `drsatrn.github.io`)
-- Curated learning resources repository (check out `learning-resources`)
-- hosting k3s at home along with other home infra (check out `homelab-showcase`)
-- Experimenting with LLMs (check out `data-platform-bootstrap`)
+- Personal website - *in development* (**Disclaimer** not a frontend guy: `drsatrn.github.io`)
+- Curated learning resources repository (`learning-resources`)
+- hosting k3s at home along with other home infra (`homelab-showcase`)
+- Experimenting with LLMs (`data-platform-bootstrap`)
 <!--
 **DrSatrn/DrSatrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
