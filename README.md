@@ -3,7 +3,7 @@ Just a guy being a dude
 ### About me
 - Builder, also a Breaker™️ (much to my own chagrin)
 - Excel is the perfect UI. No follow up
-- Interested in ~all~ technology (IoT, cloud computing, data orchestration, game dev, hypervisors, virtualisation, combustion engines)
+- Interested in ~all~ technology (IoT, cloud computing, data orchestration, game dev, virtualisation, combustion engines)
 - Expert detective when solving P1 incidents. Expert Watson at causing them
 
 I like working at the intersection of software engineering, data and infrastructure. 
